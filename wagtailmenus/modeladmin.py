@@ -1,6 +1,5 @@
 from django.urls import re_path
 from django.contrib.admin.utils import quote
-from django.urls import re_path
 from django.utils.safestring import mark_safe
 from django.utils.translation import gettext_lazy as _
 from wagtail.contrib.modeladmin.options import ModelAdmin
